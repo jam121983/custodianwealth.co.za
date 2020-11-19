@@ -1,0 +1,11 @@
+//
+
+
+
+dis.et_pb_fullwidth_slider_0.et_pb_slider .et_pb_slide_description {-webkit-animation-name: fadeIn;-moz-animation-name: fadeIn;-ms-animation-name: fadeIn;-o-animation-name: fadeIn;animation-name: fadeIn;animation-name: fadeIn;-webkit-animation-duration: 0s;-moz-animation-duration: 0s;-ms-animation-duration: 0s;-o-animation-duration: 0s;animation-duration: 0s;-webkit-animation-timing-function: fadeIn;-moz-animation-timing-function: fadeIn;-ms-animation-timing-function: fade-in;-o-animation-timing-function: fade-in;animation-timing-function: fadeIn;-webkit-animation-delay: 0s;-moz-animation-delay: 0s;-ms-animation-delay: 0s;-o-animation-delay: 0s;animation-delay: 0s;-webkit-animation-fill-mode: both;-moz-animation-fill-mode: both;-ms-animation-fill-mode: both;-o-animation-fill-mode: both;animation-fill-mode: both;display: block;background: #fff;padding: 25px 20px 15px 45px;margin: 0 0 20px;position: relative;disfont-family: Georgia,serif;disfont-size: 32px;disline-height: 1.2;discolor: #666;distext-align: justify;border-left: 0px solid #000;}
+blockquote::before {content: "“";font-family: Georgia,serif;font-size: 60px;font-weight: bold;color: #999;position: absolute;left: 10px;top: 10px;}
+blockquote::after {content: "";}
+blockquote a {text-decoration: none;background: #eee;cursor: pointer;padding: 0 3px;color: #c76c0c;}
+blockquote a:hover {color: #666;}
+blockquote em {font-style: italic;}
+.shadow {-webkit-box-shadow: 1px 2px 10px 3px #666;box-shadow: 1px 2px 10px 3px #666;}
